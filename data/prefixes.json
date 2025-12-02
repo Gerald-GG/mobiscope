@@ -1,0 +1,23 @@
+{
+    "+254": {
+      "country": "Kenya",
+      "timezones": ["Africa/Nairobi"],
+      "carriers": {
+        "7": "Safaricom",
+        "10": "Safaricom",
+        "11": "Airtel",
+        "20": "Telkom Kenya"
+      }
+    },
+    "+255": {
+      "country": "Tanzania",
+      "timezones": ["Africa/Dar_es_Salaam"],
+      "carriers": {}
+    },
+    "+256": {
+      "country": "Uganda",
+      "timezones": ["Africa/Kampala"],
+      "carriers": {}
+    }
+  }
+  

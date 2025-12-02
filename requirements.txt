@@ -1,0 +1,4 @@
+phonenumbers
+requests
+rich
+beautifulsoup4
